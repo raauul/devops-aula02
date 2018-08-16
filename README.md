@@ -1,5 +1,6 @@
 # devops-aula02
 primeira ac
 Paul Walker
-Matt Schulze
+Rick Yune
 Vin Disel
+Jason Statham
